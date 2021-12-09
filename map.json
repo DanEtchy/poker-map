@@ -345,12 +345,6 @@
             },
          "margin":0,
          "name":"Poker",
-		 "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLicense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
-                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":162,
