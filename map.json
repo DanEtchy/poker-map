@@ -22,7 +22,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/www.po-ker.co\/music.mp3"
+                 "value":"src\/assets\/music.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
